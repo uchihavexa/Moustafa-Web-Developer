@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600">
+  <rect width="960" height="600" fill="#181714"/>
+  <rect x="0" y="0" width="960" height="72" fill="#22211d"/>
+  <rect x="48" y="28" width="96" height="16" fill="#d4a574"/>
+  <rect x="520" y="30" width="56" height="10" fill="#4a4840"/>
+  <rect x="592" y="30" width="56" height="10" fill="#4a4840"/>
+  <rect x="664" y="30" width="56" height="10" fill="#4a4840"/>
+  <rect x="760" y="22" width="152" height="28" rx="2" fill="#2e2c27"/>
+  <rect x="80" y="140" width="420" height="28" fill="#eceae3"/>
+  <rect x="80" y="188" width="360" height="12" fill="#4a4840"/>
+  <rect x="80" y="216" width="300" height="12" fill="#3a3933"/>
+  <rect x="80" y="260" width="160" height="40" rx="2" fill="#d4a574"/>
+  <rect x="540" y="120" width="340" height="380" rx="8" fill="#22211d" stroke="#3a3933"/>
+  <rect x="572" y="160" width="276" height="12" fill="#4a4840"/>
+  <rect x="572" y="192" width="276" height="48" rx="2" fill="#2a2924"/>
+  <rect x="572" y="256" width="276" height="48" rx="2" fill="#2a2924"/>
+  <rect x="572" y="336" width="276" height="40" rx="2" fill="#3a3933"/>
+  <text x="480" y="560" text-anchor="middle" font-family="ui-monospace, monospace" font-size="13" fill="#7a766c">PLACEHOLDER  replace this image</text>
+</svg>

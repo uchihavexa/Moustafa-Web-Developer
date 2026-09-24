@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600">
+  <rect width="960" height="600" fill="#1a1916"/>
+  <rect x="60" y="50" width="840" height="36" rx="4" fill="#26251f"/>
+  <rect x="76" y="62" width="200" height="12" fill="#3a3933"/>
+  <rect x="60" y="106" width="260" height="444" rx="4" fill="#221f1b"/>
+  <rect x="84" y="138" width="212" height="56" rx="4" fill="#2a2924"/>
+  <rect x="84" y="210" width="212" height="56" rx="4" fill="#2a2924"/>
+  <rect x="84" y="282" width="212" height="56" rx="4" fill="#2a2924"/>
+  <rect x="84" y="354" width="212" height="56" rx="4" fill="#2a2924"/>
+  <rect x="340" y="106" width="560" height="444" rx="4" fill="#221f1b"/>
+  <rect x="372" y="148" width="220" height="18" fill="#eceae3"/>
+  <rect x="372" y="184" width="496" height="8" fill="#3a3933"/>
+  <rect x="372" y="204" width="440" height="8" fill="#32312c"/>
+  <rect x="372" y="248" width="496" height="220" rx="4" fill="#2a2924"/>
+  <text x="620" y="368" text-anchor="middle" font-family="ui-monospace, monospace" font-size="14" fill="#7a766c">UI mock</text>
+  <text x="480" y="575" text-anchor="middle" font-family="ui-monospace, monospace" font-size="13" fill="#7a766c">PLACEHOLDER  replace this image</text>
+</svg>
